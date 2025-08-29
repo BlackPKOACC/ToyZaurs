@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/MainMenu.umap",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Wb_MainMenuUI.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/HowToPlay.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/LOgo__1_.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Playbutton.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Quit.uasset",
 				"C:/Users/yandi/OneDrive/Documents/Unreal Projects/ToyZaursProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
