@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Collectibles/Carnotible/Carno_LP.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Collectibles/Diatible/Diablo_LP.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Collectibles/Mamtible/Mamut_LP.uasset",
@@ -13,6 +14,12 @@
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/MainMenu.umap",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Menu/DeathMenu.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Bed.uasset"
+=======
+				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_ToyZaur_BP.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Enemy_BP/Roarthur_BP.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Blueprints/ToyZaurs_GM.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
