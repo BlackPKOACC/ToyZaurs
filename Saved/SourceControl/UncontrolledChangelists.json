@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/HowToPlay.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/gradientMatParent.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/gradientMatParent_Inst.uasset",
@@ -13,6 +14,23 @@
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Wb_MainMenuUI.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Playbutton.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/gradientMat.uasset"
+=======
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Carnotible/Carno_LP.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Diatible/Diablo_LP.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Mamtible/Mamut_LP.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Mamtible/Texture/Mamut_LP_initialShadingGroup_BaseColor.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Mamtible/Texture/Mamut_LP_initialShadingGroup_Normal.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Mamtible/Texture/Mamut_LP_initialShadingGroup_OcclusionRoughnessMetallic.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Diatible/Texture/Diablo_LP_initialShadingGroup_BaseColor.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Diatible/Texture/Diablo_LP_initialShadingGroup_Normal.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Diatible/Texture/Diablo_LP_initialShadingGroup_OcclusionRoughnessMetallic.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Carnotible/Texture/Carno_LP_initialShadingGroup_BaseColor.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Carnotible/Texture/Carno_LP_initialShadingGroup_Normal.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Carnotible/Texture/Carno_LP_initialShadingGroup_OcclusionRoughnessMetallic.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Mamtible/ZBrushPolyMesh3DMat.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Diatible/ZBrushPolyMesh3DMat.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Collectibles/Carnotible/ZBrushPolyMesh3DMat.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
