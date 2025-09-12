@@ -5,33 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Collectibles/Carnotible/Carno_LP.uasset",
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Collectibles/Diatible/Diablo_LP.uasset",
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Collectibles/Mamtible/Mamut_LP.uasset",
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Menu/PauseMenu.uasset",
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Wb_MainMenuUI.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/HowToPlay.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/gradientMat.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/gradientMatParent.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/gradientMatParent_Inst.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/MainMenu.umap",
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Menu/DeathMenu.uasset",
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Bed.uasset"
-=======
-				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
-				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_ToyZaur_BP.uasset",
-				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Enemy_BP/Roarthur_BP.uasset",
-				"C:/Capstone/Content/ToyZaursProject/Blueprints/ToyZaurs_GM.uasset"
->>>>>>> Stashed changes
-=======
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/Collectibles/Carnotible/Carno_LP.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/Collectibles/Diatible/Diablo_LP.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/Collectibles/Mamtible/Mamut_LP.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/NPC.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CY/PVDS86Z7K40HKIVFC52H90.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UB/7JA3ZDLBHQUYG8H6AG26VO.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/AI_INTERFACE/WB_DIALOGUE.uasset"
->>>>>>> Stashed changes
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Quit.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/MainMenu/Wb_MainMenuUI.uasset"
 			]
 		}
 	]
