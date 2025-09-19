@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Enemy_BP/EnemySpawn_BP.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Enemy_BP/NewBlueprint.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Enemy_BP/Roarthur_BP.uasset",
 				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Blueprints/ToyZaurs_GM.uasset",
 				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
 				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Screenshot_2025-09-04_112140.uasset",
