@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/BP-REX.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/NPC.uasset",
 				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/Trixie_Chibi/Animations/ABP_TrixieChibi.uasset",
 				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/Roarthur/Anims/ABP_Roarthur.uasset",
 				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/Anims/ABP_Toyzauric.uasset",
