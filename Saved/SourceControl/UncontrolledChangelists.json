@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/BP-REX.uasset",
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/NPC.uasset",
@@ -22,6 +23,12 @@
 				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/IdleBig_Anim.uasset",
 				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
 				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Enemy_BP/Roarthur_BP.uasset"
+=======
+				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/Levels/Level1.umap",
+				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/Characters/Trixie_Chibi/Animations/ABP_TrixieChibi.uasset",
+				"C:/Users/jeniz/Desktop/ToyZaurs/Content/TOYZLVLSEQ.uasset",
+				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/NPC.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
