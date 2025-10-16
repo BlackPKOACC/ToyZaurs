@@ -5,30 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/BP-REX.uasset",
-				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/NPC.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/Trixie_Chibi/Animations/ABP_TrixieChibi.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/Roarthur/Anims/ABP_Roarthur.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/Anims/ABP_Toyzauric.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/Anims/Toyzauric.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/Roarthur/Anims/Roarthur.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/Trixie_Chibi/Animations/Chibi_Trixie.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/Anims/BigAttack_Anim.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/BigAttack_Anim.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/Anims/BigWalk_Anim.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/BigWalk_Anim.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/Anims/IdleBig_Anim.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/IdleBig_Anim.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
-				"C:/Users/yandi/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Enemy_BP/Roarthur_BP.uasset"
-=======
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/Levels/Level1.umap",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/Characters/Trixie_Chibi/Animations/ABP_TrixieChibi.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/TOYZLVLSEQ.uasset",
-				"C:/Users/jeniz/Desktop/ToyZaurs/Content/ToyZaursProject/BP_IAN/AI/NPC.uasset"
->>>>>>> Stashed changes
+				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/U_FORGOT_LS/TOYZLVLSEQ.uasset",
+				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/TOYZLVLSEQ.uasset",
+				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
+				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Keys/Diablo/DiabloSpins.uasset",
+				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Keys/Mam/MamutSpins.uasset",
+				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Levels/Level1.umap",
+				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Keys/Carno/CarnoSpins.uasset"
 			]
 		}
 	]
