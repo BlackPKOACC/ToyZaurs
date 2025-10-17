@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Trixie.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Characters/Trixie_Chibi/Animations/ABP_TrixieChibi.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Blueprints/ToyZaurs_GM.uasset",
+				"C:/Capstone/Content/ToyZaursProject/BP_IAN/AI/BP-SOLDIER.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/Anims/ABP_Toyzauric.uasset",
+				"C:/Capstone/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Capstone/Content/ToyZaursProject/Keys/Carno/CarnoSpins.uasset",
 				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/U_FORGOT_LS/TOYZLVLSEQ.uasset",
 				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/TOYZLVLSEQ.uasset",
 				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Keys/Diablo/DiabloSpins.uasset",
@@ -76,14 +83,8 @@
 				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/UI/Ui_Main.uasset",
 				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/LEVELsECUENCE/RoarthurEyes.uasset",
 				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset",
-				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/Trixie.uasset",
-				"C:/Capstone/Content/ToyZaursProject/Characters/Trixie_Chibi/Animations/ABP_TrixieChibi.uasset",
-				"C:/Capstone/Content/ToyZaursProject/Blueprints/ToyZaurs_GM.uasset",
-				"C:/Capstone/Content/ToyZaursProject/BP_IAN/AI/BP-SOLDIER.uasset",
 				"C:/Capstone/Content/ToyZaursProject/Blueprints/Character_BP/BP_ThirdPersonCharacter.uasset",
 				"C:/Capstone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Capstone/Content/ToyZaursProject/Characters/TrixieToyzauric/Anims/Anims/ABP_Toyzauric.uasset",
-				"C:/Capstone/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie_BP.uasset"
 			]
 		}
