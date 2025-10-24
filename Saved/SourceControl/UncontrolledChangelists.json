@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/UI/Ability_ui.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/UI/Ui_Main.uasset",
+				"C:/Users/ale21/Desktop/ToyZaurs/Content/ToyZaursProject/Blueprints/Character_BP/Trixie.uasset",
 				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Extras/Pega/Pega_pCylinder11.uasset",
 				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Extras/Pega/Pega_pCylinder12.uasset",
 				"C:/Users/xdmxc/Documents/GitHub/ToyZaurs/Content/ToyZaursProject/Extras/Pega/Pega_polySurface7.uasset",
