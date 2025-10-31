@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ToyZaursProject.cpp.obj": [
+			"ToyZaursProject.cpp.obj"
+		]
+	}
+}

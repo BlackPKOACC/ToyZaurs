@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\xdmxc\\Documents\\GitHub\\ToyZaurs\\Intermediate\\Source\\ToyZaursProject.Build.cs",
+		"C:\\Users\\xdmxc\\Documents\\GitHub\\ToyZaurs\\Intermediate\\Source\\ToyZaursProject.Target.cs",
+		"C:\\Users\\xdmxc\\Documents\\GitHub\\ToyZaurs\\Intermediate\\Source\\ToyZaursProjectClient.Target.cs",
+		"C:\\Users\\xdmxc\\Documents\\GitHub\\ToyZaurs\\Intermediate\\Source\\ToyZaursProjectEditor.Target.cs",
+		"C:\\Users\\xdmxc\\Documents\\GitHub\\ToyZaurs\\Intermediate\\Source\\ToyZaursProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
