@@ -1,0 +1,6 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 FRDGBuilder_Execute
+	01 Scene
+	02 PostProcessing
+	03 CompositeEditorPrimitives 1141x686 MSAA=4
